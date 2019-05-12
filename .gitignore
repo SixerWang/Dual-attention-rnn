@@ -1,0 +1,20 @@
+# for tmp file
+*.swo
+*.swp
+*.pyc
+
+# for big data file
+*.csv*
+*.txt*
+*.score*
+*.clf*
+*.pkl*
+
+# for compression 
+*.gz
+*.rar
+*.tar
+*.tar.gz
+*.zip
+
+# else
