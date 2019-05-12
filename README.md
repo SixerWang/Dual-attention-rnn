@@ -1,0 +1,1 @@
+[A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://www.ijcai.org/proceedings/2017/0366.pdf)的复现代码。因为本论文的网络结构较为奇特，目前Github上的该论文的复现都或多或少进行了结构修改。本代码严格按照论文的网络结构复现，仅仅对输入数据进行了必要的处理（论文中没说如何处理原始数据，原始数据的处理对模型效果有非常大的影响），未调节网络参数，在验证集上MSE为1.69，测试集上MSE为1.61，notebook中有详细结果。
